@@ -1698,9 +1698,9 @@ width: 50%;
       </b:widget>
       <b:widget id='LinkList13' locked='false' title='Learn More' type='LinkList' version='2' visible='true'>
         <b:widget-settings>
-          <b:widget-setting name='link-5'>https://imamuddinwp/p/contact-us.html</b:widget-setting>
-          <b:widget-setting name='link-3'>https://imamuddinwp.com/p/privacy-policy.html</b:widget-setting>
-          <b:widget-setting name='link-4'>https://imamuddinwp.com/p/sitemap.html</b:widget-setting>
+          <b:widget-setting name='link-5'>https://imamuddinwpbd.blogspot/p/contact-us.html</b:widget-setting>
+          <b:widget-setting name='link-3'>https://nextgendigitalhub.blogspot.com/p/privacy-policy.html</b:widget-setting>
+          <b:widget-setting name='link-4'>https://imamuddinwpbd.blogspot.com/p/sitemap.html</b:widget-setting>
           <b:widget-setting name='text-1'>Disclaimer</b:widget-setting>
           <b:widget-setting name='text-0'>Advertise</b:widget-setting>
           <b:widget-setting name='text-3'>Privacy Policy</b:widget-setting>
@@ -1709,7 +1709,7 @@ width: 50%;
           <b:widget-setting name='text-4'>Sitemap</b:widget-setting>
           <b:widget-setting name='shownum'>6</b:widget-setting>
           <b:widget-setting name='sorting'>NONE</b:widget-setting>
-          <b:widget-setting name='link-1'>https://imamuddinwp.com/p/disclaimer.html</b:widget-setting>
+          <b:widget-setting name='link-1'>https://imamuddinwpbd.blogspot.com/p/disclaimer.html</b:widget-setting>
           <b:widget-setting name='link-2'>#</b:widget-setting>
           <b:widget-setting name='link-0'>#</b:widget-setting>
         </b:widget-settings>
@@ -1761,7 +1761,7 @@ width: 50%;
 <b:section class='container px-3' id='copyright' maxwidgets='1' showaddelement='no'>
   <b:widget id='HTML23' locked='true' title='Copyright' type='HTML' version='2' visible='true'>
     <b:widget-settings>
-      <b:widget-setting name='content'><![CDATA[Copyright &copy; 2022 BlogName. <div>Credits: <a href="https://imamuddinwp.com">imamuddinwp</a></div>]]></b:widget-setting>
+      <b:widget-setting name='content'><![CDATA[Copyright &copy; 2022 NextGen Digital Hub. <div>Credits: <a href="https://nextgendigitalhub.blogspot.com/search">NextGen Digital Hub</a></div>]]></b:widget-setting>
     </b:widget-settings>
     <b:includable id='main'>
       <b:include name='JetCopyRight'/>
