@@ -11,7 +11,7 @@ Blogger Template Style
 Name		:	Magspot Premium Blogger Template
 Version		:	2.3.0 Latest
 Last Update	:	07 November 2024
-Shared By	:      	https://imamuddinwp.com/
+Shared By	:      	https://t.me/nextgendigital_hub
 -----------------------------------------------*/
 
 /*-- Customize Options (Start) --
@@ -2745,7 +2745,7 @@ body#layout #hidden-widgets{display:none!important}
       <b:section class='header-ads container row-x1' id='header-ads' maxwidgets='1' name='Header ADS' showaddelement='yes'>
         <b:widget id='HTML1' locked='false' title='Advertisement' type='HTML' visible='true'>
           <b:widget-settings>
-            <b:widget-setting name='content'><![CDATA[<a class="pbt-ad" href="https://imamuddinwp.com/"><img src="https://1.bp.blogspot.com/-972Xp-wzqaQ/YTdlSm-Yd7I/AAAAAAAAAdE/lIGA_quGiJg02MqICVN2Ztx7mrdtIgyJACLcBGAsYHQ/s0/ads.png" alt="Magspot Blogger Template"/></a>]]></b:widget-setting>
+            <b:widget-setting name='content'><![CDATA[<a class="pbt-ad" href="https://imamuddinwpbd.blogspot.com/"><img src="https://1.bp.blogspot.com/-972Xp-wzqaQ/YTdlSm-Yd7I/AAAAAAAAAdE/lIGA_quGiJg02MqICVN2Ztx7mrdtIgyJACLcBGAsYHQ/s0/ads.png" alt="Magspot Blogger Template"/></a>]]></b:widget-setting>
           </b:widget-settings>
           <b:includable id='main'>
       <b:include name='html-content'/>
@@ -3664,7 +3664,7 @@ body#layout #hidden-widgets{display:none!important}
       <b:section class='footer-ads container row-x1' id='footer-ads' maxwidgets='1' name='Footer ADS' showaddelement='yes'>
         <b:widget id='HTML3' locked='false' title='ads' type='HTML' visible='true'>
           <b:widget-settings>
-            <b:widget-setting name='content'><![CDATA[<a class="pbt-ad" href="https://www.imamuddinwp.com/"><img src="https://1.bp.blogspot.com/-972Xp-wzqaQ/YTdlSm-Yd7I/AAAAAAAAAdE/lIGA_quGiJg02MqICVN2Ztx7mrdtIgyJACLcBGAsYHQ/s0/ads.png" alt="Magspot Blogger Template"/></a>]]></b:widget-setting>
+            <b:widget-setting name='content'><![CDATA[<a class="pbt-ad" href="https://www.imamuddinwpbd.blogspot.com/"><img src="https://1.bp.blogspot.com/-972Xp-wzqaQ/YTdlSm-Yd7I/AAAAAAAAAdE/lIGA_quGiJg02MqICVN2Ztx7mrdtIgyJACLcBGAsYHQ/s0/ads.png" alt="Magspot Blogger Template"/></a>]]></b:widget-setting>
           </b:widget-settings>
           <b:includable id='main'>
       <b:include name='html-content'/>
